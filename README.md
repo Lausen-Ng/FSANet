@@ -38,9 +38,9 @@ If you find this repository/work helpful in your research, welcome to cite the p
 	title={FSANet: Feature-and-Spatial-Aligned Network for Tiny Object Detection in Remote Sensing Images},   
 	journal={IEEE Trans. Geosci. Remote Sens.},   
 	year={2022},  
-	volume={},  
+	volume={60},  
 	number={},  
-	pages={1-1},  
+	pages={1-17},  
 	doi={10.1109/TGRS.2022.3205052}
 }
 ```
